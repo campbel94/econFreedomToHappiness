@@ -51,7 +51,7 @@ The Report is supported by The Ernesto Illy Foundation, illycaffè, Davines Grou
 ## Workflow: 
 
 ### Data Dictionary
-- for complete list of economic and happiness terms and definitions click [here](https://git.generalassemb.ly/campbel94/p5_FreedomHappiness/blob/master/documentation/data_dict.md).
+- for complete list of economic and happiness terms and definitions click [here](https://github.com/campbel94/econFreedomToHappiness/blob/master/documentation/data_dict.md).
 ### Collection & Cleaning
 ##### Data Sources
 - Heritage Foundation's [Index of Economic Freedom](https://www.heritage.org/index/explore?view=by-region-country-year&u=637659387053201112) 2008-2020
